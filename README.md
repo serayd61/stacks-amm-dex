@@ -134,3 +134,12 @@ Contributions are welcome! Please open an issue or submit a pull request.
 - [Clarity Language Reference](https://docs.stacks.co/clarity)
 - [Hiro Platform](https://platform.hiro.so/)
 
+
+
+---
+
+## Latest Updates (December 2024)
+- ✅ Deployed on Stacks mainnet
+- ✅ AMM liquidity pool functionality
+- ✅ Token swap mechanism
+- ✅ Integrated with DeFi Sentinel
